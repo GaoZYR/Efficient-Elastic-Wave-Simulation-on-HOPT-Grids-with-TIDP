@@ -1,0 +1,17 @@
+level 1
+layout cell
+patch_id 8
+i_lo 48
+i_hi 79
+j_lo 80
+j_hi 95
+nx 32
+nz 16
+x_lo 1583.3333333333339
+x_hi 2500.0000000000005
+z_lo 2291.6666666666665
+z_hi 2750
+dx 28.645833333333332
+dz 28.645833333333332
+data_order row_major_j_then_i
+dtype float32
